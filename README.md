@@ -1,6 +1,6 @@
 # 추영욱 *Choo Yeong Uk*
 
-[**블로그**](https://velog.io/@choo121600)
+### [**블로그**](https://velog.io/@choo121600)
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
