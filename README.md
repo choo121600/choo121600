@@ -24,8 +24,8 @@
 ![pytorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 
-
-
+![Hyperledger Badge](https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choo121600)](https://solved.ac/choo121600)
