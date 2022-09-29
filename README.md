@@ -27,6 +27,8 @@
 ![Hyperledger Badge](https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
+
+![choo121600 GitHub stats](https://server.dooboo.io/github-stats/choo121600)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choo121600)](https://solved.ac/choo121600)
 
