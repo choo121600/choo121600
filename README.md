@@ -2,7 +2,7 @@
 
 <a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=choo121600" width="520" /></a>
 
-
+<a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-trophies?login=choo121600" width="520" /></a>
 
 <br>
 
