@@ -18,6 +18,6 @@ Mar 2023 ~ Present: Co-Founder of [SUSC](https://www.susc.kr/)
 
 ## Community
 
-Dec 2023 ~ Present: Leader of Apache Airflow users Korea  
+Dec 2023 ~ Present: Orgainzer of Apache Airflow users Korea  
 Apr 2023 ~ Present: Orgainzer of Ubuntu Korea  
 Nov 2023 ~ Aug 2024: DebConf 24 Local Team(Catering, Conference Dinner, Publicity, Daytrip, Visa, Fundrasing)  
