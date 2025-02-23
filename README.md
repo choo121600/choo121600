@@ -12,7 +12,7 @@ Airflow users Korea Forum: [https://discourse.airflow-kr.org/u/choo121600/summar
 
 Nov 2024 ~ Present: Founder of Phi Delta Investments  
 Jun 2024 ~ Present: [Member of Ubuntu](https://launchpad.net/~ubuntumembers)  
-Mar 2023 ~ Present: Co-Founder of [SUSC](https://www.susc.kr/)  
+
 
 ---
 
@@ -21,3 +21,4 @@ Mar 2023 ~ Present: Co-Founder of [SUSC](https://www.susc.kr/)
 Dec 2023 ~ Present: Orgainzer of Apache Airflow users Korea  
 Apr 2023 ~ Present: Orgainzer of Ubuntu Korea  
 Nov 2023 ~ Aug 2024: DebConf 24 Local Team(Catering, Conference Dinner, Publicity, Daytrip, Visa, Fundrasing)  
+Mar 2023 ~ Present: Co-Founder of [SUSC](https://www.susc.kr/)  
