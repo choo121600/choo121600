@@ -10,7 +10,7 @@ Airflow users Korea Forum: [https://discourse.airflow-kr.org/u/choo121600/summar
 ---
 ## Experience
 
-Nov 2024 ~ Present: Founder of Arcturus  
+Nov 2024 ~ Present: Founder of Arcturus Lab
 Jun 2024 ~ Present: [Member of Ubuntu](https://launchpad.net/~ubuntumembers)  
 
 
