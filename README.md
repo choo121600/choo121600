@@ -1,24 +1,39 @@
 # 추영욱 *Yeonguk Choo*
 
-Launchpad: [https://launchpad.net/~choo121600](https://launchpad.net/~choo121600)  
-Linkedin: [https://www.linkedin.com/in/yeonguk-choo/](https://www.linkedin.com/in/yeonguk-choo/)  
-Ubuntu Forum: [https://discourse.ubuntu.com/u/choo121600/summary](https://discourse.ubuntu.com/u/choo121600/summary)  
-Ubuntu Korea Forum: [https://discourse.ubuntu-kr.org/u/choo121600/summary](https://discourse.ubuntu-kr.org/u/choo121600/summary)  
-Apache Airflow Korea User Group Forum: [https://discourse.airflow-kr.org/u/choo121600/summary](https://discourse.airflow-kr.org/u/choo121600/summary)
+I'm a passionate open source contributor, community organizer.  
+I actively contribute to open source projects like Apache Airflow and Ubuntu, and help grow the communities around them.  
 
+## Education
 
----
+- **Korea Maritime & Ocean University (한국해양대학교)**  
+  *B.S. in Data Science (Expected Dec 2025)*  
+
 ## Experience
+- **Founder, arxtrus**  
+  _Nov 2024 – Present_  
 
-Nov 2024 ~ Present: Founder of arxtrus   
-Jun 2024 ~ Present: [Member of Ubuntu](https://launchpad.net/~ubuntumembers)  
+- **[Member of Ubuntu](https://launchpad.net/~ubuntumembers)**  
+  _Jun 2024 – Present_  
 
-
----
 
 ## Community
 
-Dec 2023 ~ Present: Orgainzer of Apache Airflow Korea User Group  
-Apr 2023 ~ Present: Orgainzer of Ubuntu Korea  
-Nov 2023 ~ Aug 2024: DebConf 24 Local Team(Catering, Conference Dinner, Publicity, Daytrip, Visa, Fundrasing)  
-Mar 2023 ~ Present: Co-Founder of [SUSC](https://www.susc.kr/)  
+- **Organizer, Apache Airflow Korea User Group**  
+  _Dec 2023 – Present_  
+  Hosting meetups, creating resources, and supporting Korean Airflow users.
+
+- **Organizer, Ubuntu Korea Community**  
+  _Apr 2023 – Present_  
+  Supporting Ubuntu users in Korea through events, workshops, and outreach programs.
+
+- **DebConf24 Local Team**  
+  _Nov 2023 – Aug 2024_  
+  Helped catering, conference dinner, publicity, daytrip, visa, and fundraising.
+
+- **Co-Founder, SUSC**  
+  _Mar 2023 – Present_  
+  Co-founding a tech-driven student community to connect and empower student developers.
+
+## OpenSource
+- [Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Achoo121600+)
+- [Ubuntu](https://launchpad.net/~choo121600)
