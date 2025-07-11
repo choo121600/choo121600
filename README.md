@@ -38,5 +38,10 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 - [Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Achoo121600+)
 - [Ubuntu](https://launchpad.net/~choo121600)
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 [![OSSRank](https://ossrank.com/widget/1003272)](https://ossrank.com/c/1003272-yeonguk)
+
