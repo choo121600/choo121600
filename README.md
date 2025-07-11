@@ -40,11 +40,11 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5213](https://github.com/hoppscotch/hoppscotch/pull/5213) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🎉 Merged PR [#5227](https://github.com/hoppscotch/hoppscotch/pull/5227) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🎉 Merged PR [#5229](https://github.com/hoppscotch/hoppscotch/pull/5229) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. ❗ Opened issue [#1](https://github.com/AndrewBastin/faraday-cage/issues/1) in [AndrewBastin/faraday-cage](https://github.com/AndrewBastin/faraday-cage)
-5. 🎉 Merged PR [#5217](https://github.com/hoppscotch/hoppscotch/pull/5217) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 💪 Opened PR [#53151](https://github.com/apache/airflow/pull/53151) in [apache/airflow](https://github.com/apache/airflow)
+2. ❗ Opened issue [#53145](https://github.com/apache/airflow/issues/53145) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#53060](https://github.com/apache/airflow/pull/53060) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#52930](https://github.com/apache/airflow/pull/52930) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#52890](https://github.com/apache/airflow/pull/52890) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 [![OSSRank](https://ossrank.com/widget/1003272)](https://ossrank.com/c/1003272-yeonguk)
