@@ -43,9 +43,9 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1227](https://github.com/apache/airflow-site/pull/1227) in [apache/airflow-site](https://github.com/apache/airflow-site)
-2. 🗣 Commented on [#54008](https://github.com/apache/airflow/pull/54008#issuecomment-3147338852) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#54059](https://github.com/apache/airflow/pull/54059) in [apache/airflow](https://github.com/apache/airflow)
-4. ❗ Opened issue [#54058](https://github.com/apache/airflow/issues/54058) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#54003](https://github.com/apache/airflow/issues/54003#issuecomment-3142042779) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#54059](https://github.com/apache/airflow/pull/54059#issuecomment-3148653804) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#54074](https://github.com/apache/airflow/pull/54074) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#54059](https://github.com/apache/airflow/pull/54059#issuecomment-3148641059) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#1227](https://github.com/apache/airflow-site/pull/1227) in [apache/airflow-site](https://github.com/apache/airflow-site)
+5. 🗣 Commented on [#54008](https://github.com/apache/airflow/pull/54008#issuecomment-3147338852) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
