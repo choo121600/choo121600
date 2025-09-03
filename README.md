@@ -43,9 +43,9 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/choo121600/flutter-linux-photo-booth/pull/6) in [choo121600/flutter-linux-photo-booth](https://github.com/choo121600/flutter-linux-photo-booth)
-2. 🗣 Commented on [#54611](https://github.com/apache/airflow/pull/54611#issuecomment-3196355457) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#54611](https://github.com/apache/airflow/pull/54611) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#53216](https://github.com/apache/airflow/pull/53216#issuecomment-3182487407) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Closed PR [#52380](https://github.com/apache/airflow/pull/52380) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#55189](https://github.com/apache/airflow/pull/55189#issuecomment-3246145591) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#55189](https://github.com/apache/airflow/pull/55189) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#53216](https://github.com/apache/airflow/pull/53216#issuecomment-3245950307) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#6](https://github.com/choo121600/flutter-linux-photo-booth/pull/6) in [choo121600/flutter-linux-photo-booth](https://github.com/choo121600/flutter-linux-photo-booth)
+5. 🗣 Commented on [#54611](https://github.com/apache/airflow/pull/54611#issuecomment-3196355457) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
