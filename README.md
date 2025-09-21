@@ -43,9 +43,9 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55379](https://github.com/apache/airflow/pull/55379) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#55189](https://github.com/apache/airflow/pull/55189#issuecomment-3246145591) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#55189](https://github.com/apache/airflow/pull/55189) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#53216](https://github.com/apache/airflow/pull/53216#issuecomment-3245950307) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#6](https://github.com/choo121600/flutter-linux-photo-booth/pull/6) in [choo121600/flutter-linux-photo-booth](https://github.com/choo121600/flutter-linux-photo-booth)
+1. ❗ Opened issue [#1](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/1) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
+2. 🗣 Commented on [#55899](https://github.com/apache/airflow/issues/55899#issuecomment-3314604012) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#55379](https://github.com/apache/airflow/pull/55379) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#55189](https://github.com/apache/airflow/pull/55189#issuecomment-3246145591) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#55189](https://github.com/apache/airflow/pull/55189) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
