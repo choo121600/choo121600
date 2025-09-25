@@ -1,21 +1,43 @@
 name: Update README
+
 on:
   schedule:
-    - cron: "* 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
-  build:
-    name: Update this repo's README with recent activity
+  update-readme-and-graph:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Specify a custom commit message"
+          COMMIT_MSG: "Update README with recent activity"
           MAX_LINES: 5
           COMMIT_NAME: GitHub Activity Readme
+
+      - name: Generate Contribution Graph
+        uses: peterxcli/gh-contribution-graph-action@v2.0
+        with:
+          targets: 'choo121600@apache/airflow'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_dir: 'images'
+          exclude_authored_from_reviewed: true
+
+      - name: Commit and push updates
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add README.md images/*.svg
+          git commit -m "Update README and contribution graph" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
