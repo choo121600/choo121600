@@ -43,9 +43,9 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/arxtrus/orbis/pull/6) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
-2. 💪 Opened PR [#6](https://github.com/arxtrus/orbis/pull/6) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
-3. 🎉 Merged PR [#5](https://github.com/arxtrus/bootes/pull/5) in [arxtrus/bootes](https://github.com/arxtrus/bootes)
-4. 💪 Opened PR [#5](https://github.com/arxtrus/bootes/pull/5) in [arxtrus/bootes](https://github.com/arxtrus/bootes)
-5. ❗ Opened issue [#1](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/1) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
+1. 🎉 Merged PR [#7](https://github.com/arxtrus/orbis/pull/7) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
+2. 💪 Opened PR [#7](https://github.com/arxtrus/orbis/pull/7) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
+3. 🎉 Merged PR [#6](https://github.com/arxtrus/orbis/pull/6) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
+4. 💪 Opened PR [#6](https://github.com/arxtrus/orbis/pull/6) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
+5. 🎉 Merged PR [#5](https://github.com/arxtrus/bootes/pull/5) in [arxtrus/bootes](https://github.com/arxtrus/bootes)
 <!--END_SECTION:activity-->
