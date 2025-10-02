@@ -43,9 +43,9 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56188](https://github.com/apache/airflow/pull/56188#issuecomment-3347058803) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#56188](https://github.com/apache/airflow/pull/56188#issuecomment-3346851739) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#56188](https://github.com/apache/airflow/pull/56188#issuecomment-3346833107) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#56188](https://github.com/apache/airflow/pull/56188#issuecomment-3346782767) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#56188](https://github.com/apache/airflow/pull/56188#issuecomment-3346664062) in [apache/airflow](https://github.com/apache/airflow)
+1. ❗ Opened issue [#17](https://github.com/arxtrus/orbis/issues/17) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
+2. ❗ Opened issue [#16](https://github.com/arxtrus/orbis/issues/16) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
+3. 🎉 Merged PR [#15](https://github.com/arxtrus/orbis/pull/15) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
+4. 💪 Opened PR [#15](https://github.com/arxtrus/orbis/pull/15) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
+5. ❌ Closed PR [#14](https://github.com/arxtrus/orbis/pull/14) in [arxtrus/orbis](https://github.com/arxtrus/orbis)
 <!--END_SECTION:activity-->
