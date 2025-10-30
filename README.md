@@ -43,9 +43,9 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/3) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
-2. 🗣 Commented on [#3](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/3#issuecomment-3454699067) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
-3.  Assigned issue [#3](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/3) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
-4. ❗ Opened issue [#3](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/3) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
-5. 💪 Opened PR [#1263](undefined) in [apache/airflow-site](https://github.com/apache/airflow-site)
+1. 💪 Opened PR [#57493](undefined) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#3](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/3) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
+3. 🗣 Commented on [#3](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/3#issuecomment-3454699067) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
+4.  Assigned issue [#3](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/3) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
+5. ❗ Opened issue [#3](https://github.com/AirflowKorea/AirflowKorea.github.io/issues/3) in [AirflowKorea/AirflowKorea.github.io](https://github.com/AirflowKorea/AirflowKorea.github.io)
 <!--END_SECTION:activity-->
