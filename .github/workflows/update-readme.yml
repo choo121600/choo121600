@@ -52,6 +52,16 @@ jobs:
           plugin_contributors: yes
           plugin_lines: yes
           plugin_traffic: yes
+          plugin_isocalendar: yes
+          plugin_notable: yes
+          plugin_discussions: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
 
       - name: Commit and push updates
         run: |
