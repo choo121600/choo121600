@@ -47,6 +47,9 @@ jobs:
           plugin_activity_filter: issue, pr, review, comment
           plugin_isocalendar: yes
           plugin_achievements: yes
+          plugin_achievements_limit: 10
+          plugin_achievements_showcase: true
+          plugin_activity_max_age: 30
           plugin_followup: yes
           plugin_contributors: yes
           plugin_lines: yes
