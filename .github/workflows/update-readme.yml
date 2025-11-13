@@ -37,6 +37,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: choo121600
+          filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
@@ -56,8 +57,15 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add README.md images/*.svg github-metrics.svg
+          
+          git add README.md || true
+          git add images/*.svg || true
+          git add github-metrics.svg || true
+          
           git commit -m "Update README, graph, and metrics" || echo "No changes to commit"
-          git push
+          
+          git pull --rebase origin main || echo "No changes to rebase"
+          
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
