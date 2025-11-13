@@ -41,6 +41,10 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 ![Contribution Graph](images/choo121600-apache-airflow-contribution-graph.svg)
 
 
+![Metrics](https://github.com/yourname/yourname/blob/main/github-metrics.svg)
+
+
+
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#58222](undefined) in [apache/airflow](https://github.com/apache/airflow)
