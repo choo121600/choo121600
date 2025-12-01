@@ -15,15 +15,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Update README with recent activity"
-          MAX_LINES: 5
-          COMMIT_NAME: GitHub Activity Readme
-
       - name: Generate Contribution Graph
         uses: peterxcli/gh-contribution-graph-action@v2.0
         with:
