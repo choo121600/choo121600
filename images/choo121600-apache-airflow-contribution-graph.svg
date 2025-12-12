@@ -260,7 +260,7 @@
                 
                 
                 
-                C1016.6666666666667,461.0671936758893 1072.2222222222222,407.70750988142294 1100.0,407.70750988142294
+                C1016.6666666666667,461.0671936758893 1072.2222222222222,389.92094861660075 1100.0,389.92094861660075
             "
     />
     
@@ -354,7 +354,7 @@
                 
                 
                 
-                C1016.6666666666667,140.90909090909093 1072.2222222222222,336.5612648221344 1100.0,336.5612648221344
+                C1016.6666666666667,140.90909090909093 1072.2222222222222,318.77470355731225 1100.0,318.77470355731225
             "
     />
     
@@ -426,7 +426,7 @@
         
         
         
-        <circle cx="1100.0" cy="407.70750988142294" r="5" fill="#2f80ed" opacity="0">
+        <circle cx="1100.0" cy="389.92094861660075" r="5" fill="#2f80ed" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.35s" fill="freeze" />
         </circle>
     
@@ -499,7 +499,7 @@
         
         
         
-        <circle cx="1100.0" cy="336.5612648221344" r="5" fill="#4c71f2" opacity="0">
+        <circle cx="1100.0" cy="318.77470355731225" r="5" fill="#4c71f2" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.35s" fill="freeze" />
         </circle>
     
@@ -509,7 +509,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0s" fill="freeze" />
         <rect x="130" y="115" width="233" height="30" rx="5" ry="5" fill="#2f80ed" fill-opacity="0.5" />
         <text x="140" y="137" font-family="Arial" font-size="20" fill="#434d58">
-            Total PRs Authored: <tspan font-weight="bold">67</tspan>
+            Total PRs Authored: <tspan font-weight="bold">68</tspan>
         </text>
     </g>
     
@@ -518,7 +518,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" />
         <rect x="130" y="155" width="233" height="30" rx="5" ry="5" fill="#4c71f2" fill-opacity="0.5" />
         <text x="140" y="177" font-family="Arial" font-size="20" fill="#434d58">
-            Total PRs Reviewed: <tspan font-weight="bold">43.0</tspan>
+            Total PRs Reviewed: <tspan font-weight="bold">44.0</tspan>
         </text>
     </g>
 </svg>
