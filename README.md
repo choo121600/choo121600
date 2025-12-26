@@ -9,6 +9,9 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
   *B.S. in Data Science (Expected Dec 2025)*  
 
 ## Experience
+- **[Committer, Apache Airflow](https://github.com/apache/airflow)**  
+  _Dec 2025 – Present_
+
 - **Founder, arxtrus**  
   _Nov 2024 – Present_  
 
