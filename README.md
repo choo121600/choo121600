@@ -6,7 +6,7 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 ## Education
 
 - **Korea Maritime & Ocean University (한국해양대학교)**  
-  *B.S. in Data Science (Expected Dec 2025)*  
+  *B.S. in Data Science (Expected Feb 2026)*  
 
 ## Experience
 - **[Committer, Apache Airflow](https://github.com/apache/airflow)**  
