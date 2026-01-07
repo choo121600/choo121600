@@ -58,28 +58,31 @@
             <line x1="100.0" y1="100" x2="100.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="211.11111111111111" y1="100" x2="211.11111111111111" y2="550" stroke-opacity="0.6"/>
+            <line x1="200.0" y1="100" x2="200.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="322.22222222222223" y1="100" x2="322.22222222222223" y2="550" stroke-opacity="0.6"/>
+            <line x1="300.0" y1="100" x2="300.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="433.3333333333333" y1="100" x2="433.3333333333333" y2="550" stroke-opacity="0.6"/>
+            <line x1="400.0" y1="100" x2="400.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="544.4444444444445" y1="100" x2="544.4444444444445" y2="550" stroke-opacity="0.6"/>
+            <line x1="500.0" y1="100" x2="500.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="655.5555555555555" y1="100" x2="655.5555555555555" y2="550" stroke-opacity="0.6"/>
+            <line x1="600.0" y1="100" x2="600.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="766.6666666666666" y1="100" x2="766.6666666666666" y2="550" stroke-opacity="0.6"/>
+            <line x1="700.0" y1="100" x2="700.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="877.7777777777778" y1="100" x2="877.7777777777778" y2="550" stroke-opacity="0.6"/>
+            <line x1="800.0" y1="100" x2="800.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="988.8888888888889" y1="100" x2="988.8888888888889" y2="550" stroke-opacity="0.6"/>
+            <line x1="900.0" y1="100" x2="900.0" y2="550" stroke-opacity="0.6"/>
+        
+            
+            <line x1="1000.0" y1="100" x2="1000.0" y2="550" stroke-opacity="0.6"/>
         
             
             <line x1="1100.0" y1="100" x2="1100.0" y2="550" stroke-opacity="0.6"/>
@@ -120,48 +123,53 @@
         </text>
     
         
-        <text x="211.11111111111111" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 211.11111111111111, 580)" fill="#434d58">
+        <text x="200.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 200.0, 580)" fill="#434d58">
             2025-03
         </text>
     
         
-        <text x="322.22222222222223" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 322.22222222222223, 580)" fill="#434d58">
+        <text x="300.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 300.0, 580)" fill="#434d58">
             2025-05
         </text>
     
         
-        <text x="433.3333333333333" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 433.3333333333333, 580)" fill="#434d58">
+        <text x="400.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 400.0, 580)" fill="#434d58">
             2025-06
         </text>
     
         
-        <text x="544.4444444444445" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 544.4444444444445, 580)" fill="#434d58">
+        <text x="500.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 500.0, 580)" fill="#434d58">
             2025-07
         </text>
     
         
-        <text x="655.5555555555555" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 655.5555555555555, 580)" fill="#434d58">
+        <text x="600.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 600.0, 580)" fill="#434d58">
             2025-08
         </text>
     
         
-        <text x="766.6666666666666" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 766.6666666666666, 580)" fill="#434d58">
+        <text x="700.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 700.0, 580)" fill="#434d58">
             2025-09
         </text>
     
         
-        <text x="877.7777777777778" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 877.7777777777778, 580)" fill="#434d58">
+        <text x="800.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 800.0, 580)" fill="#434d58">
             2025-10
         </text>
     
         
-        <text x="988.8888888888889" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 988.8888888888889, 580)" fill="#434d58">
+        <text x="900.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 900.0, 580)" fill="#434d58">
             2025-11
         </text>
     
         
-        <text x="1100.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 1100.0, 580)" fill="#434d58">
+        <text x="1000.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 1000.0, 580)" fill="#434d58">
             2025-12
+        </text>
+    
+        
+        <text x="1100.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 1100.0, 580)" fill="#434d58">
+            2026-01
         </text>
     
     
@@ -188,7 +196,7 @@
                 
                 
                 
-                C127.77777777777777,540.4862579281184 183.33333333333334,540.4862579281184 211.11111111111111,540.4862579281184
+                C125.0,540.4862579281184 175.0,540.4862579281184 200.0,540.4862579281184
             
             
             
@@ -197,7 +205,7 @@
                 
                 
                 
-                C238.88888888888889,540.4862579281184 294.44444444444446,521.4587737843552 322.22222222222223,521.4587737843552
+                C225.0,540.4862579281184 275.0,521.4587737843552 300.0,521.4587737843552
             
             
             
@@ -206,7 +214,7 @@
                 
                 
                 
-                C350.0,521.4587737843552 405.55555555555554,445.34883720930236 433.3333333333333,445.34883720930236
+                C325.0,521.4587737843552 375.0,445.34883720930236 400.0,445.34883720930236
             
             
             
@@ -215,7 +223,7 @@
                 
                 
                 
-                C461.1111111111111,445.34883720930236 516.6666666666666,388.2663847780127 544.4444444444445,388.2663847780127
+                C425.0,445.34883720930236 475.0,388.2663847780127 500.0,388.2663847780127
             
             
             
@@ -224,7 +232,7 @@
                 
                 
                 
-                C572.2222222222222,388.2663847780127 627.7777777777778,483.40380549682874 655.5555555555555,483.40380549682874
+                C525.0,388.2663847780127 575.0,483.40380549682874 600.0,483.40380549682874
             
             
             
@@ -233,7 +241,7 @@
                 
                 
                 
-                C683.3333333333333,483.40380549682874 738.8888888888889,511.94503171247356 766.6666666666666,511.94503171247356
+                C625.0,483.40380549682874 675.0,511.94503171247356 700.0,511.94503171247356
             
             
             
@@ -242,7 +250,7 @@
                 
                 
                 
-                C794.4444444444445,511.94503171247356 850.0,454.8625792811839 877.7777777777778,454.8625792811839
+                C725.0,511.94503171247356 775.0,454.8625792811839 800.0,454.8625792811839
             
             
             
@@ -251,7 +259,7 @@
                 
                 
                 
-                C905.5555555555557,454.8625792811839 961.1111111111111,502.43128964059196 988.8888888888889,502.43128964059196
+                C825.0,454.8625792811839 875.0,502.43128964059196 900.0,502.43128964059196
             
             
             
@@ -260,7 +268,16 @@
                 
                 
                 
-                C1016.6666666666667,502.43128964059196 1072.2222222222222,140.90909090909093 1100.0,140.90909090909093
+                C925.0,502.43128964059196 975.0,140.90909090909093 1000.0,140.90909090909093
+            
+            
+            
+            
+                
+                
+                
+                
+                C1025.0,140.90909090909093 1075.0,550.0 1100.0,550.0
             "
     />
     
@@ -282,7 +299,7 @@
                 
                 
                 
-                C127.77777777777777,550.0 183.33333333333334,550.0 211.11111111111111,550.0
+                C125.0,550.0 175.0,550.0 200.0,550.0
             
             
             
@@ -291,7 +308,7 @@
                 
                 
                 
-                C238.88888888888889,550.0 294.44444444444446,550.0 322.22222222222223,550.0
+                C225.0,550.0 275.0,550.0 300.0,550.0
             
             
             
@@ -300,7 +317,7 @@
                 
                 
                 
-                C350.0,550.0 405.55555555555554,530.9725158562368 433.3333333333333,530.9725158562368
+                C325.0,550.0 375.0,530.9725158562368 400.0,530.9725158562368
             
             
             
@@ -309,7 +326,7 @@
                 
                 
                 
-                C461.1111111111111,530.9725158562368 516.6666666666666,530.9725158562368 544.4444444444445,530.9725158562368
+                C425.0,530.9725158562368 475.0,530.9725158562368 500.0,530.9725158562368
             
             
             
@@ -318,7 +335,7 @@
                 
                 
                 
-                C572.2222222222222,530.9725158562368 627.7777777777778,540.4862579281184 655.5555555555555,540.4862579281184
+                C525.0,530.9725158562368 575.0,540.4862579281184 600.0,540.4862579281184
             
             
             
@@ -327,7 +344,7 @@
                 
                 
                 
-                C683.3333333333333,540.4862579281184 738.8888888888889,530.9725158562368 766.6666666666666,530.9725158562368
+                C625.0,540.4862579281184 675.0,530.9725158562368 700.0,530.9725158562368
             
             
             
@@ -336,7 +353,7 @@
                 
                 
                 
-                C794.4444444444445,530.9725158562368 850.0,540.4862579281184 877.7777777777778,540.4862579281184
+                C725.0,530.9725158562368 775.0,540.4862579281184 800.0,540.4862579281184
             
             
             
@@ -345,7 +362,7 @@
                 
                 
                 
-                C905.5555555555557,540.4862579281184 961.1111111111111,331.18393234672305 988.8888888888889,331.18393234672305
+                C825.0,540.4862579281184 875.0,331.18393234672305 900.0,331.18393234672305
             
             
             
@@ -354,7 +371,16 @@
                 
                 
                 
-                C1016.6666666666667,331.18393234672305 1072.2222222222222,207.5052854122622 1100.0,207.5052854122622
+                C925.0,331.18393234672305 975.0,207.5052854122622 1000.0,207.5052854122622
+            
+            
+            
+            
+                
+                
+                
+                
+                C1025.0,207.5052854122622 1075.0,540.4862579281184 1100.0,540.4862579281184
             "
     />
     
@@ -370,64 +396,71 @@
         
         
         
-        <circle cx="211.11111111111111" cy="540.4862579281184" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.15s" fill="freeze" />
+        <circle cx="200.0" cy="540.4862579281184" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.13636363636363635s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="322.22222222222223" cy="521.4587737843552" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.3s" fill="freeze" />
+        <circle cx="300.0" cy="521.4587737843552" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.2727272727272727s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="433.3333333333333" cy="445.34883720930236" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.45s" fill="freeze" />
+        <circle cx="400.0" cy="445.34883720930236" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.4090909090909091s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="544.4444444444445" cy="388.2663847780127" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6s" fill="freeze" />
+        <circle cx="500.0" cy="388.2663847780127" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.5454545454545454s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="655.5555555555555" cy="483.40380549682874" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.75s" fill="freeze" />
+        <circle cx="600.0" cy="483.40380549682874" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6818181818181818s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="766.6666666666666" cy="511.94503171247356" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.9s" fill="freeze" />
+        <circle cx="700.0" cy="511.94503171247356" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.8181818181818182s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="877.7777777777778" cy="454.8625792811839" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.05s" fill="freeze" />
+        <circle cx="800.0" cy="454.8625792811839" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.9545454545454546s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="988.8888888888889" cy="502.43128964059196" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2s" fill="freeze" />
+        <circle cx="900.0" cy="502.43128964059196" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0909090909090908s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="1100.0" cy="140.90909090909093" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.35s" fill="freeze" />
+        <circle cx="1000.0" cy="140.90909090909093" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2272727272727273s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="1100.0" cy="550.0" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.3636363636363635s" fill="freeze" />
         </circle>
     
     
@@ -443,64 +476,71 @@
         
         
         
-        <circle cx="211.11111111111111" cy="550.0" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.15s" fill="freeze" />
+        <circle cx="200.0" cy="550.0" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.13636363636363635s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="322.22222222222223" cy="550.0" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.3s" fill="freeze" />
+        <circle cx="300.0" cy="550.0" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.2727272727272727s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="433.3333333333333" cy="530.9725158562368" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.45s" fill="freeze" />
+        <circle cx="400.0" cy="530.9725158562368" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.4090909090909091s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="544.4444444444445" cy="530.9725158562368" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6s" fill="freeze" />
+        <circle cx="500.0" cy="530.9725158562368" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.5454545454545454s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="655.5555555555555" cy="540.4862579281184" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.75s" fill="freeze" />
+        <circle cx="600.0" cy="540.4862579281184" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6818181818181818s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="766.6666666666666" cy="530.9725158562368" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.9s" fill="freeze" />
+        <circle cx="700.0" cy="530.9725158562368" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.8181818181818182s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="877.7777777777778" cy="540.4862579281184" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.05s" fill="freeze" />
+        <circle cx="800.0" cy="540.4862579281184" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.9545454545454546s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="988.8888888888889" cy="331.18393234672305" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2s" fill="freeze" />
+        <circle cx="900.0" cy="331.18393234672305" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0909090909090908s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="1100.0" cy="207.5052854122622" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.35s" fill="freeze" />
+        <circle cx="1000.0" cy="207.5052854122622" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2272727272727273s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="1100.0" cy="540.4862579281184" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.3636363636363635s" fill="freeze" />
         </circle>
     
         
@@ -509,7 +549,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0s" fill="freeze" />
         <rect x="130" y="115" width="233" height="30" rx="5" ry="5" fill="#2f80ed" fill-opacity="0.5" />
         <text x="140" y="137" font-family="Arial" font-size="20" fill="#434d58">
-            Total PRs Authored: <tspan font-weight="bold">102</tspan>
+            Total PRs Authored: <tspan font-weight="bold">102.0</tspan>
         </text>
     </g>
     
@@ -518,7 +558,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" />
         <rect x="130" y="155" width="233" height="30" rx="5" ry="5" fill="#4c71f2" fill-opacity="0.5" />
         <text x="140" y="177" font-family="Arial" font-size="20" fill="#434d58">
-            Total PRs Reviewed: <tspan font-weight="bold">67.0</tspan>
+            Total PRs Reviewed: <tspan font-weight="bold">68.0</tspan>
         </text>
     </g>
 </svg>
