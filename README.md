@@ -6,14 +6,14 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
 ## Education
 
 - **Korea Maritime & Ocean University (한국해양대학교)**  
-  *B.S. in Data Science (Expected Feb 2026)*  
+  *B.S. in Data Science (Feb 2026)*  
 
 ## Experience
 - **[Committer, Apache Airflow](https://github.com/apache/airflow)**  
   _Dec 2025 – Present_
 
 - **Founder, arxtrus**  
-  _Nov 2024 – Present_  
+  _Nov 2024 – Feb 2026  
 
 - **[Member of Ubuntu](https://launchpad.net/~ubuntumembers)**  
   _Jun 2024 – Present_  
