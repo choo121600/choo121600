@@ -13,7 +13,7 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
   _Dec 2025 – Present_
 
 - **Founder, arxtrus**  
-  _Nov 2024 – Feb 2026  
+  _Nov 2024 – Feb 2026_
 
 - **[Member of Ubuntu](https://launchpad.net/~ubuntumembers)**  
   _Jun 2024 – Present_  
