@@ -24,6 +24,48 @@ jobs:
           exclude_authored_from_reviewed: true
           force: true
 
+      - name: Update Airflow PR Stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          MERGED=$(gh search prs --repo apache/airflow --author choo121600 --merged --json number --jq length 2>/dev/null || echo "0")
+          REVIEWED=$(gh search prs --repo apache/airflow --reviewed-by choo121600 --json number --jq length 2>/dev/null || echo "0")
+
+          echo "Merged PRs: $MERGED, Reviewed PRs: $REVIEWED"
+
+          export MERGED REVIEWED
+          python3 - <<'PYEOF'
+import re, os
+merged = os.environ.get("MERGED", "0")
+reviewed = os.environ.get("REVIEWED", "0")
+
+with open("README.md", "r") as f:
+    content = f.read()
+
+merged_url = "https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Achoo121600+is%3Amerged"
+reviewed_url = "https://github.com/apache/airflow/pulls?q=is%3Apr+reviewed-by%3Achoo121600"
+
+stats_block = (
+    "<!-- AIRFLOW_STATS:START -->\n"
+    "| Merged PRs | Reviewed PRs |\n"
+    "|:---:|:---:|\n"
+    f"| [{merged}]({merged_url}) | [{reviewed}]({reviewed_url}) |\n"
+    "<!-- AIRFLOW_STATS:END -->"
+)
+
+content = re.sub(
+    r"<!-- AIRFLOW_STATS:START -->.*?<!-- AIRFLOW_STATS:END -->",
+    stats_block,
+    content,
+    flags=re.DOTALL,
+)
+
+with open("README.md", "w") as f:
+    f.write(content)
+
+print(f"Updated: Merged={merged}, Reviewed={reviewed}")
+PYEOF
+
       - name: Commit and push updates
         run: |
           git config --global user.name 'GitHub Action'
