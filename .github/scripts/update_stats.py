@@ -12,8 +12,8 @@ reviewed_url = "https://github.com/apache/airflow/pulls?q=is%3Apr+reviewed-by%3A
 
 stats_block = (
     "<!-- AIRFLOW_STATS:START -->\n"
-    f"  - [{merged} PRs merged]({merged_url})\n"
-    f"  - [{reviewed} PRs reviewed]({reviewed_url})\n"
+    f"  - [{merged} PRs merged]({merged_url})"
+    f" · [{reviewed} PRs reviewed]({reviewed_url})\n"
     "<!-- AIRFLOW_STATS:END -->"
 )
 

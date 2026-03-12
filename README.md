@@ -19,12 +19,11 @@ I actively contribute to open source projects like Apache Airflow and Ubuntu, an
   _Jun 2024 – Present_  
 
 
-## OpenSource
+## Open Source
 
 - [Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Achoo121600+)
 <!-- AIRFLOW_STATS:START -->
-  - [101 PRs merged](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Achoo121600+is%3Amerged)
-  - [169 PRs reviewed](https://github.com/apache/airflow/pulls?q=is%3Apr+reviewed-by%3Achoo121600)
+  - [101 PRs merged](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Achoo121600+is%3Amerged) · [169 PRs reviewed](https://github.com/apache/airflow/pulls?q=is%3Apr+reviewed-by%3Achoo121600)
 <!-- AIRFLOW_STATS:END -->
 - [Ubuntu](https://launchpad.net/~choo121600)
 
