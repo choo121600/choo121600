@@ -28,8 +28,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          MERGED=$(gh search prs --repo apache/airflow --author choo121600 --merged --json number --jq length 2>/dev/null || echo "0")
-          REVIEWED=$(gh search prs --repo apache/airflow --reviewed-by choo121600 --json number --jq length 2>/dev/null || echo "0")
+          MERGED=$(gh api 'search/issues?q=is:pr+author:choo121600+repo:apache/airflow+is:merged&per_page=1' --jq '.total_count' 2>/dev/null || echo "0")
+          REVIEWED=$(gh api 'search/issues?q=is:pr+reviewed-by:choo121600+repo:apache/airflow&per_page=1' --jq '.total_count' 2>/dev/null || echo "0")
           echo "Merged PRs: $MERGED, Reviewed PRs: $REVIEWED"
           MERGED=$MERGED REVIEWED=$REVIEWED python3 .github/scripts/update_stats.py
 
