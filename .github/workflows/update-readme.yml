@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 매일 00:00 UTC 실행
+    - cron: "0 0 * * *" # 매일 00:00 UTC 실행
   workflow_dispatch:
 
 jobs:
