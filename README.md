@@ -1,7 +1,8 @@
 # 추영욱 *Yeonguk Choo*
 
-I'm a passionate open source contributor, community organizer.  
-I actively contribute to open source projects like Apache Airflow and Ubuntu, and help grow the communities around them.  
+I enjoy software engineering and data analysis as a hobby.
+I like solving problems by drawing on experience across different industries, and I’m particularly interested in simplifying workflows and improving processes.
+In my spare time, I contribute to open source projects, especially in the Apache Airflow and Ubuntu ecosystems, and enjoy collaborating with the community to improve systems.
 
 ## Education
 
