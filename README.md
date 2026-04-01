@@ -1,7 +1,7 @@
 # 추영욱 *Yeonguk Choo*
 
-I enjoy software engineering and data analysis as a hobby.
-I like solving problems by drawing on experience across different industries, and I’m particularly interested in simplifying workflows and improving processes.
+I enjoy software engineering and data analysis as a hobby.  
+I like solving problems by drawing on experience across different industries, and I’m particularly interested in simplifying workflows and improving processes.  
 In my spare time, I contribute to open source projects, especially in the Apache Airflow and Ubuntu ecosystems, and enjoy collaborating with the community to improve systems.
 
 ## Education
