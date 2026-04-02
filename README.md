@@ -46,3 +46,5 @@ In my spare time, I contribute to open source projects, especially in the Apache
 - **Co-Founder, SUSC**  
   _Mar 2023 – Present_  
   Co-founding a tech-driven student community to connect and empower student developers.
+
+[![committers.top badge](https://user-badge.committers.top/south_korea_private/choo121600.svg)](https://user-badge.committers.top/south_korea_private/choo121600)
