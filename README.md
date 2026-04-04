@@ -47,4 +47,8 @@ In my spare time, I contribute to open source projects, especially in the Apache
   _Mar 2023 – Present_  
   Co-founding a tech-driven student community to connect and empower student developers.
 
+- **Member, DEVOCEAN YOUNG 1st Cohort**  
+  _Jul 2022 – Jan 2023_  
+  A program that supports university student developers in contributing to and growing through community activities.
+
 [![committers.top badge](https://user-badge.committers.top/south_korea_private/choo121600.svg)](https://user-badge.committers.top/south_korea_private/choo121600)
