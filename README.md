@@ -24,7 +24,7 @@ In my spare time, I contribute to open source projects, especially in the Apache
 
 - [Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Achoo121600+)
 <!-- AIRFLOW_STATS:START -->
-  - [0 PRs merged](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Achoo121600+is%3Amerged) · [5 PRs reviewed](https://github.com/apache/airflow/pulls?q=is%3Apr+reviewed-by%3Achoo121600)
+  - [1 PRs merged](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Achoo121600+is%3Amerged) · [7 PRs reviewed](https://github.com/apache/airflow/pulls?q=is%3Apr+reviewed-by%3Achoo121600)
 <!-- AIRFLOW_STATS:END -->
 - [Ubuntu](https://launchpad.net/~choo121600)
 
