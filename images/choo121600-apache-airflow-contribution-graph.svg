@@ -518,7 +518,7 @@
                 
                 
                 
-                C928.125,342.92929292929296 959.375,216.66666666666669 975.0,216.66666666666669
+                C928.125,342.92929292929296 959.375,166.16161616161622 975.0,166.16161616161622
             
             
             
@@ -527,7 +527,7 @@
                 
                 
                 
-                C990.625,216.66666666666669 1021.875,418.6868686868687 1037.5,418.6868686868687
+                C990.625,166.16161616161622 1021.875,418.6868686868687 1037.5,418.6868686868687
             
             
             
@@ -536,7 +536,7 @@
                 
                 
                 
-                C1053.125,418.6868686868687 1084.375,529.7979797979798 1100.0,529.7979797979798
+                C1053.125,418.6868686868687 1084.375,524.7474747474747 1100.0,524.7474747474747
             "
     />
     
@@ -765,7 +765,7 @@
         
         
         
-        <circle cx="975.0" cy="216.66666666666669" r="5" fill="#4c71f2" opacity="0">
+        <circle cx="975.0" cy="166.16161616161622" r="5" fill="#4c71f2" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2352941176470589s" fill="freeze" />
         </circle>
     
@@ -779,7 +779,7 @@
         
         
         
-        <circle cx="1100.0" cy="529.7979797979798" r="5" fill="#4c71f2" opacity="0">
+        <circle cx="1100.0" cy="524.7474747474747" r="5" fill="#4c71f2" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.411764705882353s" fill="freeze" />
         </circle>
     
@@ -798,7 +798,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" />
         <rect x="130" y="155" width="233" height="30" rx="5" ry="5" fill="#4c71f2" fill-opacity="0.5" />
         <text x="140" y="177" font-family="Arial" font-size="20" fill="#434d58">
-            Total PRs Reviewed: <tspan font-weight="bold">334.0</tspan>
+            Total PRs Reviewed: <tspan font-weight="bold">345.0</tspan>
         </text>
     </g>
 </svg>
